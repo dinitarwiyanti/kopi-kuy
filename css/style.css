@@ -302,7 +302,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
 }
 
 .judul-about-us {
-   margin-bottom: 20px;
+   margin-bottom: 30px;
    font-family: "gilroy";
    font-style: bold;
    font-size: 45px;
@@ -321,7 +321,7 @@ terkait layout pada CSS untuk dapat memahami secara penuh
       elemen memiliki panjang 800px namun tidak boleh melebihi 100% ukuran layar
    */
    width: 800px;
-   max-width: 50%;
+   max-width: 100%;
 }
 
 .tentang-about-us {
